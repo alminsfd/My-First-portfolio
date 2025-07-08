@@ -153,3 +153,30 @@ main section{
     box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
     border-radius: 5px;
 }
+.head_design{
+    color: #474747;
+    font-weight: 700;
+    font-size: 25px;
+}
+.header_design_1{
+    color: #757575;
+    font-weight: 600;
+    font-size:20px ;
+}
+.para_design{
+    color:#757575 ;
+    font-size:16px ;
+    font-weight: 400;
+}
+.Section_design{
+    font-size: 30px;
+    font-weight: 600;
+    color: #474747;
+}
+.btn{
+    margin-top: 30px;
+}
+.resume_container{
+    display: flex;
+    gap:25px;
+}
