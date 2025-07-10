@@ -180,3 +180,7 @@ main section{
     display: flex;
     gap:25px;
 }
+
+i{
+    margin-right: 10px;
+}
