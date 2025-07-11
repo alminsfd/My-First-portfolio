@@ -184,3 +184,41 @@ main section{
 i{
     margin-right: 10px;
 }
+footer{
+    display: flex;
+    padding: 130px 140px;
+    gap: 170px  ;
+}
+.facebook{
+    margin-right: 24px;
+}
+.insta{
+    margin-right: 24px;
+
+}
+.twitter{
+    margin-right: 24px;
+
+}
+.Collume_footer{
+    width: 50%;
+}
+
+.Collume_footer input[type="email"], input[type="text"],textarea{
+    border:none;
+    width: 100%;
+    height: 64px;
+    margin-top: 24px;
+    border-radius: 5px;
+    background-color: #fff;
+    color: #474747;
+    font-size: 18px;
+    padding: 10px 20px;
+
+
+}
+.Collume_footer input[type="submit"]{
+    margin-top: 24px;
+}
+
+
